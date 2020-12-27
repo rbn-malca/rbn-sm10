@@ -1,0 +1,45 @@
+0000000000000000000000000000000000000000 88a423dfb464636aef170f5f4f775ac7f2f26158 Strider <fernando.herrera85@gmail.com> 1497888417 -0600	commit (initial): Se agrego el archivo readme
+88a423dfb464636aef170f5f4f775ac7f2f26158 da24862d49edc92b35e54b53549fa6d3d65ffa7c Strider <fernando.herrera85@gmail.com> 1497888475 -0600	commit: Agregamos las misiones
+da24862d49edc92b35e54b53549fa6d3d65ffa7c 6b8f60d4bb136cfa0563274f340dd2da090b8e25 Strider <fernando.herrera85@gmail.com> 1497888500 -0600	commit: Agregamos los heroes
+6b8f60d4bb136cfa0563274f340dd2da090b8e25 bc1a1e5ba1f7523c0d900f95bb16ab87297c253e Strider <fernando.herrera85@gmail.com> 1497888522 -0600	commit: Agregamos las ciudades
+bc1a1e5ba1f7523c0d900f95bb16ab87297c253e d57133723a4066adce0fd7114d3b2723d1b01d37 Strider <fernando.herrera85@gmail.com> 1497888564 -0600	commit: Agregamos las ciudades
+d57133723a4066adce0fd7114d3b2723d1b01d37 3b660025d6105f9194e5aabbd3bf66d50a2569b6 Strider <fernando.herrera85@gmail.com> 1497889149 -0600	commit (amend): Agregamos las ciudades
+3b660025d6105f9194e5aabbd3bf66d50a2569b6 860c6c28c99abcc67e44671511b04ef7ac787be5 Strider <fernando.herrera85@gmail.com> 1497889186 -0600	commit (amend): Agregamos las historias de los heroes
+860c6c28c99abcc67e44671511b04ef7ac787be5 345d7de729e8013b3cc00f53a737d6b0e9d95199 Strider <fernando.herrera85@gmail.com> 1497889251 -0600	commit: Editamos el readme.md
+345d7de729e8013b3cc00f53a737d6b0e9d95199 39ae8e64806dd5bf9883500548cb88a17d879d79 Strider <fernando.herrera85@gmail.com> 1497889281 -0600	commit: Agregamos a linterna verde a los heroes
+39ae8e64806dd5bf9883500548cb88a17d879d79 345d7de729e8013b3cc00f53a737d6b0e9d95199 Strider <fernando.herrera85@gmail.com> 1497890011 -0600	reset: moving to 345d7de
+345d7de729e8013b3cc00f53a737d6b0e9d95199 c96385e3348923e4246891153e8fc82a1e463a80 Strider <fernando.herrera85@gmail.com> 1497890062 -0600	commit: Agregamos a Linterna verde y a Robin:
+c96385e3348923e4246891153e8fc82a1e463a80 4e809d4c4503539e55df381192375d01b2a53295 Strider <fernando.herrera85@gmail.com> 1497890067 -0600	commit (amend): Agregamos a Linterna verde y a Robin
+4e809d4c4503539e55df381192375d01b2a53295 860c6c28c99abcc67e44671511b04ef7ac787be5 Strider <fernando.herrera85@gmail.com> 1497890463 -0600	reset: moving to 860c6c2
+860c6c28c99abcc67e44671511b04ef7ac787be5 da24862d49edc92b35e54b53549fa6d3d65ffa7c Strider <fernando.herrera85@gmail.com> 1497891029 -0600	reset: moving to da24862
+da24862d49edc92b35e54b53549fa6d3d65ffa7c 88a423dfb464636aef170f5f4f775ac7f2f26158 Strider <fernando.herrera85@gmail.com> 1497891060 -0600	reset: moving to 88a423d
+88a423dfb464636aef170f5f4f775ac7f2f26158 4e809d4c4503539e55df381192375d01b2a53295 Strider <fernando.herrera85@gmail.com> 1497891399 -0600	reset: moving to 4e809d4
+4e809d4c4503539e55df381192375d01b2a53295 fa3cd3a7ecc8859293e3c42f333a145563fec0a0 Strider <fernando.herrera85@gmail.com> 1497908666 -0600	commit: Creando el archivo destruir el mundo
+fa3cd3a7ecc8859293e3c42f333a145563fec0a0 c9ee153a1ef370b756b05452d5f8b29a520ef5b5 Strider <fernando.herrera85@gmail.com> 1497908762 -0600	commit: Renombrando archivo a salvar-mundo
+c9ee153a1ef370b756b05452d5f8b29a520ef5b5 d877f01f0054cf65f9bebdc0344845bdcdbe7806 Strider <fernando.herrera85@gmail.com> 1497908829 -0600	commit: Borrando archivo salvar mundo
+d877f01f0054cf65f9bebdc0344845bdcdbe7806 b4c748c4dd3447a9801713c9faa4a1a04d126d62 Strider <fernando.herrera85@gmail.com> 1497910886 -0600	commit: Cambiamos el nombre de la historia de superman
+b4c748c4dd3447a9801713c9faa4a1a04d126d62 ac0d374661d894356d89b79e55d0f0ad3f78da26 Strider <fernando.herrera85@gmail.com> 1497910956 -0600	commit: Borramos la historia de batman
+ac0d374661d894356d89b79e55d0f0ad3f78da26 62c8a103793185c4d4f646b595882a88e732a813 Strider <fernando.herrera85@gmail.com> 1497912014 -0600	commit: Agregando el gitignore
+62c8a103793185c4d4f646b595882a88e732a813 ad66a33443a61eecc1895c1f7869feb88209deb4 Strider <fernando.herrera85@gmail.com> 1497970128 -0600	merge rama-villanos: Fast-forward
+ad66a33443a61eecc1895c1f7869feb88209deb4 4c24baa3aa78b4bd7d32235f7922f2c48d2b4bdd Strider <fernando.herrera85@gmail.com> 1497973583 -0600	commit: Borre a los heroes que no son de DC
+4c24baa3aa78b4bd7d32235f7922f2c48d2b4bdd a4a98342f46da49dbf11f7fa5bc4c517114d1181 Strider <fernando.herrera85@gmail.com> 1497973631 -0600	merge rama-villano: Merge made by the 'recursive' strategy.
+a4a98342f46da49dbf11f7fa5bc4c517114d1181 b9366251ea5fc33048a556b106db0fb6233131d4 Strider <fernando.herrera85@gmail.com> 1497974606 -0600	commit: Actualizamos las misiones MASTER
+b9366251ea5fc33048a556b106db0fb6233131d4 5440fe506e93dc5a955f38f0ba057df5ac1181a9 Strider <fernando.herrera85@gmail.com> 1497975822 -0600	commit (merge): Resolviendo conflictos
+5440fe506e93dc5a955f38f0ba057df5ac1181a9 5b0c87f491b7d54fa45010e43a2d0861114272af Strider <fernando.herrera85@gmail.com> 1497999159 -0600	commit: Modificaciones en el README de emergencia
+5b0c87f491b7d54fa45010e43a2d0861114272af 7dd23f170503a0adbb4a2fe2cba815f327841fcb Strider <fernando.herrera85@gmail.com> 1497999249 -0600	commit: Agregamos más misiones
+7dd23f170503a0adbb4a2fe2cba815f327841fcb 8239e2637317af9dd60a091a6ae13e4c0874220e Strider <fernando.herrera85@gmail.com> 1498001290 -0600	commit: Cambios de emergencia en el README
+8239e2637317af9dd60a091a6ae13e4c0874220e 31efae8580ad2faa589ed084f7b2b53a1c2f4fe7 Strider <fernando.herrera85@gmail.com> 1498001383 -0600	commit: Retomando el trabajo que guarde en el stash
+31efae8580ad2faa589ed084f7b2b53a1c2f4fe7 acea380e9890555324d31359f21250ae64c91f1b Strider <fernando.herrera85@gmail.com> 1498254126 -0600	commit: Actualización de las misiones
+acea380e9890555324d31359f21250ae64c91f1b 300c014e970f2acf51647ffa1b345de6fb49b085 Strider <fernando.herrera85@gmail.com> 1498254423 -0600	commit: Misiones nuevas agregadas
+300c014e970f2acf51647ffa1b345de6fb49b085 158ba9e915b256dc6bbf57a17a3d8ace2a8c737f Strider <fernando.herrera85@gmail.com> 1498254442 -0600	commit: Se agrego a la liga: Volcán Negro
+158ba9e915b256dc6bbf57a17a3d8ace2a8c737f 8c45e6770293d0c97c6f7d0f6911fe22763acc25 Strider <fernando.herrera85@gmail.com> 1498255489 -0600	merge rama-misiones-completadas: Fast-forward
+8c45e6770293d0c97c6f7d0f6911fe22763acc25 48786243278b60c679a596e2e685ef255b78973f Strider <fernando.herrera85@gmail.com> 1498257101 -0600	commit: Actualizamos las misiones completadas
+48786243278b60c679a596e2e685ef255b78973f b4563958fd9ff04f2eb4f63f583f45ecb0ae6009 Strider <fernando.herrera85@gmail.com> 1498257709 -0600	rebase -i (finish): refs/heads/master onto 300c014e970f2acf51647ffa1b345de6fb49b085
+b4563958fd9ff04f2eb4f63f583f45ecb0ae6009 8c45e6770293d0c97c6f7d0f6911fe22763acc25 Strider <fernando.herrera85@gmail.com> 1498257771 -0600	reset: moving to 8c45e67
+8c45e6770293d0c97c6f7d0f6911fe22763acc25 48786243278b60c679a596e2e685ef255b78973f Strider <fernando.herrera85@gmail.com> 1498257812 -0600	reset: moving to 4878624
+48786243278b60c679a596e2e685ef255b78973f 8c45e6770293d0c97c6f7d0f6911fe22763acc25 Strider <fernando.herrera85@gmail.com> 1498257844 -0600	reset: moving to 8c45e67
+8c45e6770293d0c97c6f7d0f6911fe22763acc25 938e780aaff230c36a565da6d33d9060ad1cb605 Strider <fernando.herrera85@gmail.com> 1498257885 -0600	commit: Actualizamos las misiones completadas
+938e780aaff230c36a565da6d33d9060ad1cb605 6fb446ac277d145ce999c93c0d02101a134c30ea Strider <fernando.herrera85@gmail.com> 1498258119 -0600	rebase -i (finish): refs/heads/master onto 300c014e970f2acf51647ffa1b345de6fb49b085
+6fb446ac277d145ce999c93c0d02101a134c30ea 093e6ef85481daae5eef015e0922531ae8246852 Strider <fernando.herrera85@gmail.com> 1498259727 -0600	rebase -i (finish): refs/heads/master onto f4523dddd30192faaec4e7640d235abd6e1e645d
+093e6ef85481daae5eef015e0922531ae8246852 3ed1f1d46bdbd5ebaf5dc648453befb5a66b997d Strider <fernando.herrera85@gmail.com> 1498261200 -0600	commit: commits
+3ed1f1d46bdbd5ebaf5dc648453befb5a66b997d c3e22b94904fe150822c6daf381cd53d93c473ac Strider <fernando.herrera85@gmail.com> 1498261380 -0600	rebase -i (finish): refs/heads/master onto f4523dddd30192faaec4e7640d235abd6e1e645d
