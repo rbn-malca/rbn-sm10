@@ -1,4 +1,4 @@
-# Objetivos del repositorio
+# Objetivos del repositorio SI ES RBN
 
 Este repositorio se encarga de manejar los planes de la liga de la justicia.
 
